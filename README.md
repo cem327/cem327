@@ -13,10 +13,10 @@
 - Dependency Injection, design patterns, CI/CD, OOP, Microservice Arthitecture, Monolithic arthitecture, Restful API Design, Concurrency and Parallelism, Aspect Oriented programming
 
 ### Stats 
-- Java Spring Boot, Java Spring Cloud, Docker, Kubernetes, Rabbitmq, OpenFeign, Elasticsearch, MongoDB, PostgreSQL, Redis, Kibana, Hibernate **[+800 hrs]**
+- Java Spring Boot, Java Spring Cloud, Docker, Kubernetes, Rabbitmq, OpenFeign, Elasticsearch, MongoDB, PostgreSQL, Redis, Kibana, Hibernate **[+800 hours]**
 - Javascript, Axios, Cheerio, SH **[+200 hours]**
 - MATLAB (Digital Image Processing) **[+100 hours]**
-- AWS, Google Cloud, CI/CD, Java Spring Security, HTML, CSS, SASS, BootStrap, Bash **[50+ hrs - Heard of, used in a project, saw in a video. etc]**
+- AWS, Google Cloud, CI/CD, Java Spring Security, HTML, CSS, SASS, BootStrap, Bash **[50+ hours - Heard of, used in a project, saw in a video. etc]**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
