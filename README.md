@@ -20,7 +20,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-[Leveraging Spring Framework for Efficient Dependency Injection in Java](https://medium.com/@cmylmz327/leveraging-spring-framework-for-efficient-dependency-injection-in-java-d770927516e0)
+[Aspect-Oriented Programming (AOP) in Java][1]  
+[Dependency Injection in Java with Spring Framework][2]
+
+[1]: https://medium.com/@cmylmz327/aspect-oriented-programming-aop-in-java-4287f0febe97  
+[2]: https://medium.com/@cmylmz327/leveraging-spring-framework-for-efficient-dependency-injection-in-java-d770927516e0
 <!-- BLOG-POST-LIST:END -->
 
 --------------------------------------------------------------------------------------------------------------------------------------------
