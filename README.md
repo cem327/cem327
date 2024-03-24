@@ -5,7 +5,7 @@
 
 - I'm working on [SkillsToLearn](https://github.com/cem327/SkillsToLearn), [HotelReservation](https://github.com/cem327/HotelReservation)
 
-- Learning **Java Spring FrameWork - Bilgeadam Boost**, **ReactJS - UDEMY** 
+- Learning **Java Spring Framework - Bilgeadam Boost**, **ReactJS - UDEMY** 
 
 - Know about my experiences upon contact.
 
