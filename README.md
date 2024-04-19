@@ -3,7 +3,7 @@
 
 ### Currently working on
 
-- I'm working on [SkillsToLearn](https://github.com/cem327/most-wanted-skills), [HotelReservation](https://github.com/cem327/HotelReservation)
+- I'm working on [most-wanted-skills](https://github.com/cem327/most-wanted-skills), [HotelReservation](https://github.com/cem327/HotelReservation)
 
 - Learning **Java Spring Framework - Bilgeadam Boost**, **ReactJS - UDEMY** 
 
